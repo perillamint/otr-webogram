@@ -1,0 +1,16 @@
+{
+  "title": "Webogram-OTR",
+  "name": "webogram-otr",
+  "version": "0.0.1",
+  "description": "OTR addon for Telegram web",
+  "main": "index.js",
+  "author": "perillamint",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPLv3",
+  "keywords": [
+    "jetpack"
+  ]
+}
